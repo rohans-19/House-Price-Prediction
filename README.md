@@ -1,6 +1,8 @@
 This repo explores regression techniques to predict:House prices using linear and multiple linear regression based on property characteristics.
 Car prices based on multiple vehicle-related features.
-Folder StructureCar_priceCar price prediction uses a multivariate linear regression model trained on features such as:
+Folder Structure
+
+Car_priceCar price prediction uses a multivariate linear regression model trained on features such as:
 1.Brand
 2.Body type
 3.Mileage
